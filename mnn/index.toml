@@ -51,6 +51,16 @@ hash = "5a32c3c20fda5acca2813f83d8db114d8b6ae276dcf4610a611272c075885cb7"
 metafile = true
 
 [[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "68d97d7c43f28d54f75e4acfdcfc05c3c963739d438892d8d84c68ebc9d181bf"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "93f6e343b6d6c08388840b86f35c39a56f336d02f2fc216b81c70ef4815dbc80"
+metafile = true
+
+[[files]]
 file = "mods/cloth-api.pw.toml"
 hash = "66e5a832549ae569bb7ccffecbc888aa0b56abdd06bc98f7fd027069738d04d0"
 metafile = true
