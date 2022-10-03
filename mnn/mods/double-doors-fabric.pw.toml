@@ -1,0 +1,13 @@
+name = "Double Doors (Fabric)"
+filename = "doubledoors-fabric_1.18.2-3.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c318c2e91fbe97f94eba8ce8a16246d09cfed84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4015979
+project-id = 541214

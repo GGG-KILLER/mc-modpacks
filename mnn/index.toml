@@ -91,6 +91,11 @@ hash = "c889a9718156003d2c5e63df9b73954d9fa8134ad71ba3c41dcb2378a642f79d"
 metafile = true
 
 [[files]]
+file = "mods/collective-fabric.pw.toml"
+hash = "cc776e7e80a816c88f5f537ee00e510746d807ddbb85fa909e543b3314e0a3bf"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "811ae5db88e94e44c8d83b6436c5d03ae020916389710dcc1f620c6793a1ff78"
 metafile = true
@@ -128,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/deepslatecutting.pw.toml"
 hash = "7008986a99286a8ed3280fe5f54421ef5dc982f6e9b39cca2e5d196905e5cdcb"
+metafile = true
+
+[[files]]
+file = "mods/double-doors-fabric.pw.toml"
+hash = "794e16488c1c5e937743aa38f847a0913f99a59ed4fb99b2027c46931f1dc547"
 metafile = true
 
 [[files]]
