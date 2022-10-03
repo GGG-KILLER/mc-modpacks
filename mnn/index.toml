@@ -36,6 +36,11 @@ hash = "7f0b310e9d00f4744059554a9f34e2a932ff2e0ea7071356ac382555029989e4"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "be2eb8aaf41cc18a31ccd3401c07547f189ce72ce6a30484b6ac16142c7b3653"
+metafile = true
+
+[[files]]
 file = "mods/betterend.pw.toml"
 hash = "3f1a94dc7555d19869312ad0218e97a15505f77a1b2f1228dc718e238a4b5c53"
 metafile = true
@@ -43,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/betternether.pw.toml"
 hash = "4282b7fa7650440b13dc25a7a3f9433b69f4e2701a95315629a8b1e98e304891"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "276cf886f2d4cc247993dad13b8f67fc0b491a48d2037609e6795d69f1c9dc0a"
 metafile = true
 
 [[files]]
