@@ -6181,6 +6181,11 @@ hash = "01c284a18a15a8afd02125c04b0c30b737be3ec7c9d3b44b73f1776aa1137e08"
 metafile = true
 
 [[files]]
+file = "mods/chunky-pregenerator.pw.toml"
+hash = "8f26d033fa27c4a89a9327ede2edabdf06273bd4b8c6efb2f711ebf35e6108d9"
+metafile = true
+
+[[files]]
 file = "mods/cleancut.pw.toml"
 hash = "12485f0ca3d0e35804c01af3e2d034c253d7762943f1e8e889b66f745b52c76b"
 metafile = true
