@@ -253,6 +253,106 @@ file = "config/bhmenu/bhmenu-client.properties"
 hash = "df7a22e9b3e0bd7ce70247949953772f6c11bf170555810b1c5adcf7ae6f463d"
 
 [[files]]
+file = "config/bluemap/core.conf"
+hash = "d38c3f71c573eea20ee2f875400c27b28700ca67c19ff275ea95d6eecd69ca4e"
+
+[[files]]
+file = "config/bluemap/maps/ad_astra__earths_orbit.conf"
+hash = "555e73817b062e76b628277ad5098c7fe8c657ee655a8b52cda7a4f5c36c47e3"
+
+[[files]]
+file = "config/bluemap/maps/ad_astra__glacio.conf"
+hash = "ee9e6e2b338747654d70b961b249e702055590834b0b33b3fdaf80608b893f39"
+
+[[files]]
+file = "config/bluemap/maps/ad_astra__glacio_orbit.conf"
+hash = "3be9b801c2f890c67b7db355ea48053f066bef83fa45948d3d2486f3bb51dd09"
+
+[[files]]
+file = "config/bluemap/maps/ad_astra__mars.conf"
+hash = "596ed3e374d28bd34463eba3a3ee777a2793b3ed076ca3d32ba2307325f9742b"
+
+[[files]]
+file = "config/bluemap/maps/ad_astra__mars_orbit.conf"
+hash = "fbdddc35525075ed15c93ce8846e8603fb45629dc9944520eff8aa5ec628127b"
+
+[[files]]
+file = "config/bluemap/maps/ad_astra__mercury.conf"
+hash = "d8117c27003bf4ad91af0538382511eb61f19220d3745133455047cd82844376"
+
+[[files]]
+file = "config/bluemap/maps/ad_astra__mercury_orbit.conf"
+hash = "60581292ec31de6a1e21d891f34a353c45e2e7d399d6cf112adcd3b9683167ae"
+
+[[files]]
+file = "config/bluemap/maps/ad_astra__moon.conf"
+hash = "f2657988b9443accb50838a8d129540bee1d109497223bc9c49a5bedebcca444"
+
+[[files]]
+file = "config/bluemap/maps/ad_astra__moon_orbit.conf"
+hash = "02b4fa51ee3dca43fd5708541a988628906724c0465e6be8f74590135a322d95"
+
+[[files]]
+file = "config/bluemap/maps/ad_astra__venus.conf"
+hash = "82b92895411455e49ecaa5aed9a84bcc75097d3a730f15ceb9ea6c8c878431df"
+
+[[files]]
+file = "config/bluemap/maps/ad_astra__venus_orbit.conf"
+hash = "7af8109ce999e808390b54d9f6462c0494c4accac1047855e97d173f1178c176"
+
+[[files]]
+file = "config/bluemap/maps/ae2__spatial_storage.conf"
+hash = "1812084ce98863325ad522cac88d8cafad585da49d391b71192a1bac65a1b932"
+
+[[files]]
+file = "config/bluemap/maps/compact_machines__compact_world.conf"
+hash = "7adf02929aae93842b3a145a28dfa2916adab8c5739a7eb0ae48253c0e244cb9"
+
+[[files]]
+file = "config/bluemap/maps/end.conf"
+hash = "94216d8ba2f1ee271d7ec3265ea1e583e6823d99aacd4848d71f5915b4ee9085"
+
+[[files]]
+file = "config/bluemap/maps/nether.conf"
+hash = "3ecbdbbd316da932b0ea2acb7644949f8a2091fe40c01b2caa59d3d4d5c0bd79"
+
+[[files]]
+file = "config/bluemap/maps/overworld.conf"
+hash = "76737aac50c066ca452ee2a6cb1d83b4b54269faa2924ff9ef8eb73e483b7214"
+
+[[files]]
+file = "config/bluemap/maps/simplevoidworld__void.conf"
+hash = "bfb2096350d4e6a89461ec548370746c879bf6c1e703ecef0515ebefacae47d8"
+
+[[files]]
+file = "config/bluemap/maps/spectrum__deeper_down_dimension.conf"
+hash = "15d641becae3524a3952e54769c6a739f99e43dac4a6b22dbfadae01ee4b0cc3"
+
+[[files]]
+file = "config/bluemap/maps/twilight_forest.conf"
+hash = "12b5dc0c78d430dad0be16b0e3e8eb215e68163604f209124b9e15c33c28a78d"
+
+[[files]]
+file = "config/bluemap/plugin.conf"
+hash = "34943477e28c6561a80305cf680a21a7949d07515fd94b6e3fe62d9faa6fac1a"
+
+[[files]]
+file = "config/bluemap/storages/file.conf"
+hash = "bc22faeb151c936963e4f66e6f8e1a5cf4745b1c08f20e7b16ffb6b54a847aeb"
+
+[[files]]
+file = "config/bluemap/storages/sql.conf"
+hash = "fe5fd6922632915ddd265ea7f5981917051459cb67d62f7561e5839297c6216d"
+
+[[files]]
+file = "config/bluemap/webapp.conf"
+hash = "e444766d58682cde0cd489f315a47762fe7a9fc176c4a8a88729a3aeab818d8f"
+
+[[files]]
+file = "config/bluemap/webserver.conf"
+hash = "b23d12d28f78dc61245d6954ab4de755d1ae16c1e0c62d94554575e4707b9f44"
+
+[[files]]
 file = "config/bosses_of_mass_destruction.json5"
 hash = "cfb83af28a257a3b83383f0a7f2dbc5e5930b9528c4d14940e9d29000a51ce63"
 
@@ -6053,6 +6153,11 @@ metafile = true
 [[files]]
 file = "mods/blockus.pw.toml"
 hash = "333ba62ec673100991f9c654b7e67a37b8394d66dc29453d22df83a9c2212432"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "35b63c97bb4313bd8c3832295c7f60fa04e0d76d4c13a4d24f7867d2fcc91d47"
 metafile = true
 
 [[files]]

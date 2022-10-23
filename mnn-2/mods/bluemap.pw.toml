@@ -1,0 +1,7 @@
+name = "bluemap"
+filename = "BlueMap-3.5-fabric-1.18.jar"
+
+[download]
+url = "https://github.com/BlueMap-Minecraft/BlueMap/releases/download/v3.5/BlueMap-3.5-fabric-1.18.jar"
+hash-format = "sha1"
+hash = "d127597656a323a038da4d9e04919a0115b3420a"
