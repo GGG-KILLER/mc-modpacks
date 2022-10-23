@@ -7421,6 +7421,16 @@ hash = "d67a358469637394e1b52e6bbb7a1b3eda3b7bf6eb25491458c85640c357793e"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "fe91cab2872397e4a895b9971bbad4e88d6d483d4ca9b6dd3010145ac8e97dba"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "c854bc5fb2759d6b83a134e95ac90ce927f6f4d08a43d58599ee9ae1ec57c9c4"
+metafile = true
+
+[[files]]
 file = "mods/xp-obelisk-additions.pw.toml"
 hash = "3b9e2e1edb8a5ef2204f3b8a67d678da405b00ec35949aa5bd870605dfc8c0b3"
 metafile = true
