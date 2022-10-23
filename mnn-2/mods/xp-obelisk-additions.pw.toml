@@ -1,0 +1,13 @@
+name = "XP Obelisk Additions"
+filename = "xp_obelisk_additions-0.1.4-r+1.18.2-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "53a9c4acc0f0fa0b6ea67cd5b15748e87f3bb43e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3967496
+project-id = 659264

@@ -1,0 +1,13 @@
+name = "Bamboo Combat"
+filename = "Bamboo Combat-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f261350b0eed7425313d72bd0e6f17287aaf7d0d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3843423
+project-id = 631472

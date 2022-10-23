@@ -1,0 +1,13 @@
+name = "Iron Chests: Restocked"
+filename = "ironchests-2.0.4-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1e23788454839e70627aabb2ebc142f8f71223ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4022307
+project-id = 498794

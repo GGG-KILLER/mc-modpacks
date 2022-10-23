@@ -1,0 +1,13 @@
+name = "FuelInfo"
+filename = "fuelinfo-1.0.1+1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d070b26cbd6b35e3d110f2745f4bb518628a34a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3963039
+project-id = 489631

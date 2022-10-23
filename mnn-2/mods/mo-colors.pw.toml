@@ -1,0 +1,13 @@
+name = "Mo' Colors"
+filename = "mocolors-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "da58a3d8d19456ef5871c2991612bdda7ea3537e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3671252
+project-id = 446767

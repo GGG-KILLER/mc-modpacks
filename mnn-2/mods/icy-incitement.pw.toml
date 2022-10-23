@@ -1,0 +1,13 @@
+name = "Icy Incitement"
+filename = "icy-incitement-1.18.2-fabric-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c3ab7482dc51c61e1da153c13454bea3e68c058f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3788269
+project-id = 561319

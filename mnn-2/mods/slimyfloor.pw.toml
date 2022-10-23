@@ -1,0 +1,13 @@
+name = "SlimyFloor"
+filename = "slimyfloor-1.18-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "575e2132b6e186061878a2a3256e6d2f5441c407"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3554951
+project-id = 456996

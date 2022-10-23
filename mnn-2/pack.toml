@@ -1,0 +1,13 @@
+name = "all-of-fabric-5"
+author = "TeamAOF"
+version = "2.0.4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "91bdc3dbc36e3fc7fd831a5c731388965715efcdf220aa7aca5d706eae312297"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.18.2"

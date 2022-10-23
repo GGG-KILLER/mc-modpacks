@@ -1,0 +1,13 @@
+name = "Tiny Coal"
+filename = "Tiny-Coal-Fabric-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "94cd8712f272e00781ad38ac387182943a20f753"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3970550
+project-id = 395272

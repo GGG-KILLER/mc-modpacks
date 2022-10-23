@@ -1,0 +1,13 @@
+name = "Thatched"
+filename = "Thatched-fabric-1.18.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f7601ddf28240d307c20ed2023bcd743b7984898"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3682786
+project-id = 403202

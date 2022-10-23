@@ -1,0 +1,13 @@
+name = "Egg Tab - Fabric"
+filename = "eggtab-2.2.1+1.18-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f983df541ccb24cf7a45d4ef0401af28a6b8010a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3823522
+project-id = 360449

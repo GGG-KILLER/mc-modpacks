@@ -1,0 +1,13 @@
+name = "🌷Floral Flair🌷"
+filename = "Floral-Flair-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6351c670998220915b8afb77b33e6748872f168c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3724724
+project-id = 549363

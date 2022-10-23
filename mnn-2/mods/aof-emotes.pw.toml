@@ -1,0 +1,13 @@
+name = "AOF Emotes"
+filename = "aofemotes-0.0.4+1.18.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b8e209ab8202b1a95f465311f500e1ab52b6ed2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3778610
+project-id = 594146

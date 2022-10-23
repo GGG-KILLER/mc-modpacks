@@ -1,0 +1,13 @@
+name = "Cooking for Blockheads (Fabric Edition)"
+filename = "cookingforblockheads-fabric-1.18.2-12.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b1ddda498988877dd3be5c9beacbf774200d55ab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4019021
+project-id = 634546

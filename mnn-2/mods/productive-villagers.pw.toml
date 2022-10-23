@@ -1,0 +1,13 @@
+name = "Productive Villagers"
+filename = "productivevillagers_fabric-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e39d3c3267f4159a46e189f81e07343e3cdc3dc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3998932
+project-id = 664389

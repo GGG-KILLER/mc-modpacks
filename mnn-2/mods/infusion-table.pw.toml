@@ -1,0 +1,13 @@
+name = "Infusion Table"
+filename = "infusion-table-mod-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "35c6c9ea56abcd6c45d7b3d770e5f66f1f7ece8f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3823566
+project-id = 531783

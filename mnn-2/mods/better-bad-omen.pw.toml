@@ -1,0 +1,13 @@
+name = "Better Bad Omen"
+filename = "BetterBadOmen-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "13ade4043d8afd0202b6860de7215ba7feb02251"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3828154
+project-id = 608383
