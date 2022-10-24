@@ -258,79 +258,79 @@ hash = "d38c3f71c573eea20ee2f875400c27b28700ca67c19ff275ea95d6eecd69ca4e"
 
 [[files]]
 file = "config/bluemap/maps/ad_astra__earths_orbit.conf"
-hash = "555e73817b062e76b628277ad5098c7fe8c657ee655a8b52cda7a4f5c36c47e3"
+hash = "0af73efd082758aa7ba8cb7bc4be5c1813d47a5843db274bba402a84e511fdec"
 
 [[files]]
 file = "config/bluemap/maps/ad_astra__glacio.conf"
-hash = "ee9e6e2b338747654d70b961b249e702055590834b0b33b3fdaf80608b893f39"
+hash = "f85908c693b6e0f5367804e02b865bf56fcf097ba0e7f14bdd8d9b712d382b87"
 
 [[files]]
 file = "config/bluemap/maps/ad_astra__glacio_orbit.conf"
-hash = "3be9b801c2f890c67b7db355ea48053f066bef83fa45948d3d2486f3bb51dd09"
+hash = "b9f7454ed10777fbf0c6392ea9d93e56ae8805061bf54d661b7c56ca79943daf"
 
 [[files]]
 file = "config/bluemap/maps/ad_astra__mars.conf"
-hash = "596ed3e374d28bd34463eba3a3ee777a2793b3ed076ca3d32ba2307325f9742b"
+hash = "18dd1d5be3e5fff44257a7ce51d577d91f9d822a052e3733adc68b8bd87a80b4"
 
 [[files]]
 file = "config/bluemap/maps/ad_astra__mars_orbit.conf"
-hash = "fbdddc35525075ed15c93ce8846e8603fb45629dc9944520eff8aa5ec628127b"
+hash = "93d3548ea47de4383b43c8322bf8816337cc41028314b4d42dab94f33ceec9a3"
 
 [[files]]
 file = "config/bluemap/maps/ad_astra__mercury.conf"
-hash = "d8117c27003bf4ad91af0538382511eb61f19220d3745133455047cd82844376"
+hash = "10573f129edf72a8682c0049ecfe1fdc796019925a2fe3e950230cabd9524486"
 
 [[files]]
 file = "config/bluemap/maps/ad_astra__mercury_orbit.conf"
-hash = "60581292ec31de6a1e21d891f34a353c45e2e7d399d6cf112adcd3b9683167ae"
+hash = "4c28f20b6617f2594921754bca733c0a748f2256841055a98b747c93552ac389"
 
 [[files]]
 file = "config/bluemap/maps/ad_astra__moon.conf"
-hash = "f2657988b9443accb50838a8d129540bee1d109497223bc9c49a5bedebcca444"
+hash = "5c2a2785e3771991d5a9bca1a4231d916101ef4e4670e242333e2a0abf8a2d64"
 
 [[files]]
 file = "config/bluemap/maps/ad_astra__moon_orbit.conf"
-hash = "02b4fa51ee3dca43fd5708541a988628906724c0465e6be8f74590135a322d95"
+hash = "b1b1b5300ca2610e02d185552faa081896e0b1e95a91e4e9f5f45b2aa934fda8"
 
 [[files]]
 file = "config/bluemap/maps/ad_astra__venus.conf"
-hash = "82b92895411455e49ecaa5aed9a84bcc75097d3a730f15ceb9ea6c8c878431df"
+hash = "cddcb66d94754861f0f16ba0170f207d05248da1052700047c677a261227a33a"
 
 [[files]]
 file = "config/bluemap/maps/ad_astra__venus_orbit.conf"
-hash = "7af8109ce999e808390b54d9f6462c0494c4accac1047855e97d173f1178c176"
+hash = "03347ff5d08720b2f0c2b796916e05312e99cb88177fdbdb03cc830f44df89a7"
 
 [[files]]
 file = "config/bluemap/maps/ae2__spatial_storage.conf"
-hash = "1812084ce98863325ad522cac88d8cafad585da49d391b71192a1bac65a1b932"
+hash = "35859059f52ddd0dbd0e27f248926d3f4d928b8cc03cc2a14efcfd638d73d456"
 
 [[files]]
 file = "config/bluemap/maps/compact_machines__compact_world.conf"
-hash = "7adf02929aae93842b3a145a28dfa2916adab8c5739a7eb0ae48253c0e244cb9"
+hash = "42a837757a8a7bec5d2d7eaaa9b546d31a8664f9d4464b175b1a8a8529cf1705"
 
 [[files]]
 file = "config/bluemap/maps/end.conf"
-hash = "94216d8ba2f1ee271d7ec3265ea1e583e6823d99aacd4848d71f5915b4ee9085"
+hash = "1932148930b029acb3e46055e9730ef4c9b8681ed6536a22fbb659788657cf56"
 
 [[files]]
 file = "config/bluemap/maps/nether.conf"
-hash = "3ecbdbbd316da932b0ea2acb7644949f8a2091fe40c01b2caa59d3d4d5c0bd79"
+hash = "817ccf2b9b0ddefd859380b30d97e42bfe4f5dd0e38cef535fec5f13c1361789"
 
 [[files]]
 file = "config/bluemap/maps/overworld.conf"
-hash = "76737aac50c066ca452ee2a6cb1d83b4b54269faa2924ff9ef8eb73e483b7214"
+hash = "23d3f5468f371027eb0fbe4a85e8e980f89a280b5e8cf7397262db3c46bf5b68"
 
 [[files]]
 file = "config/bluemap/maps/simplevoidworld__void.conf"
-hash = "bfb2096350d4e6a89461ec548370746c879bf6c1e703ecef0515ebefacae47d8"
+hash = "7efbe24d377ae79737fdc5ecfd0475649a0abf93bc72938ddeb08280b076e743"
 
 [[files]]
 file = "config/bluemap/maps/spectrum__deeper_down_dimension.conf"
-hash = "15d641becae3524a3952e54769c6a739f99e43dac4a6b22dbfadae01ee4b0cc3"
+hash = "782da86fae1912cb9969112ba73c31f8889d7b23c7aa652a59bfb27e0e4fe027"
 
 [[files]]
 file = "config/bluemap/maps/twilight_forest.conf"
-hash = "12b5dc0c78d430dad0be16b0e3e8eb215e68163604f209124b9e15c33c28a78d"
+hash = "d95bb724f2bcf3c8af5df673709fffd0d3b32b433581720a26c44b2d579e0af2"
 
 [[files]]
 file = "config/bluemap/plugin.conf"
