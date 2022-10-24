@@ -5897,6 +5897,10 @@ file = "kubejs/server_scripts/recipetypes/techreborn/vacuum_freezer.js"
 hash = "3fa83998fb99cc697810a3da8f414c7901ab8d07b5a7e848de3a183068601e07"
 
 [[files]]
+file = "kubejs/server_scripts/recipetypes/tinycoal/shapeless.js"
+hash = "8298ebbaff0956304753fff6f4a15431a1ae5995647bac1d3797c880c1144d19"
+
+[[files]]
 file = "kubejs/server_scripts/recipetypes/twilight_forest/shaped.js"
 hash = "70e722f93ef2f65b797c4a4b3dcb6c1c7b8351ea176ec748e44f8c6e921ac24b"
 
