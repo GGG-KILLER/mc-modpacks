@@ -4,7 +4,7 @@
 
 
 onEvent('tags.items', event => {
-  
+
   event.add('minecraft:coals', 'modern_industrialization:lignite_coal')
 
   event.add('c:workbench', 'minecraft:crafting_table')
@@ -31,9 +31,34 @@ onEvent('tags.items', event => {
 
   event.add('c:iron_rods', 'ad_astra:iron_stick')
 
+  // Hephaestus
 
-  
+  event.add('ftbultimine:tools', 'tconstruct:pickaxe')
+  event.add('ftbultimine:tools', 'tconstruct:sledge_hammer')
+  event.add('ftbultimine:tools', 'tconstruct:vein_hammer')
+  event.add('ftbultimine:tools', 'tconstruct:mattock')
+  event.add('ftbultimine:tools', 'tconstruct:pickadze')
+  event.add('ftbultimine:tools', 'tconstruct:excavator')
+  event.add('ftbultimine:tools', 'tconstruct:hand_axe')
+  event.add('ftbultimine:tools', 'tconstruct:broad_axe')
+  event.add('ftbultimine:tools', 'tconstruct:kama')
+  event.add('ftbultimine:tools', 'tconstruct:scythe')
+  event.add('ftbultimine:tools', 'tconstruct:dagger')
+  event.add('ftbultimine:tools', 'tconstruct:sword')
+  event.add('ftbultimine:tools', 'tconstruct:cleaver')
 
-
+  event.add('ftbultimine:included_tools', 'tconstruct:pickaxe')
+  event.add('ftbultimine:included_tools', 'tconstruct:sledge_hammer')
+  event.add('ftbultimine:included_tools', 'tconstruct:vein_hammer')
+  event.add('ftbultimine:included_tools', 'tconstruct:mattock')
+  event.add('ftbultimine:included_tools', 'tconstruct:pickadze')
+  event.add('ftbultimine:included_tools', 'tconstruct:excavator')
+  event.add('ftbultimine:included_tools', 'tconstruct:hand_axe')
+  event.add('ftbultimine:included_tools', 'tconstruct:broad_axe')
+  event.add('ftbultimine:included_tools', 'tconstruct:kama')
+  event.add('ftbultimine:included_tools', 'tconstruct:scythe')
+  event.add('ftbultimine:included_tools', 'tconstruct:dagger')
+  event.add('ftbultimine:included_tools', 'tconstruct:sword')
+  event.add('ftbultimine:included_tools', 'tconstruct:cleaver')
 
 });

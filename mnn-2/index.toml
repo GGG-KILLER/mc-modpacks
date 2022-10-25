@@ -5918,7 +5918,7 @@ hash = "85c1411742440a20fa0238e9d6641fef48b99c2858ab3e73777bd09113c654f2"
 
 [[files]]
 file = "kubejs/server_scripts/tags/general_tags.js"
-hash = "f114424cf16ab92b55734796e46134e69b32d222c25b9d8442688b631be21d5b"
+hash = "d72ea2066c3446cb3505a833648c2eed02909c3f48abc6777c0446a429334b09"
 
 [[files]]
 file = "kubejs/server_scripts/tags/replicator_blacklist.js"
