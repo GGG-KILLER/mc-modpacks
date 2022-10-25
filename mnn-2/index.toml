@@ -6600,6 +6600,11 @@ hash = "413d0984a3d66fa6b1136956a77ecafe70e0091ea24da4b016573ee3f1e06d0a"
 metafile = true
 
 [[files]]
+file = "mods/falling-tree.pw.toml"
+hash = "2047bfc9f05d71ca26602f0ce473edc71da087a44ce6a69e31bc552d13331ae7"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "7e434fc3d8b60eaf434808aa5acca81e4e55ea1d655ddf905c56f81ad8091017"
 metafile = true
