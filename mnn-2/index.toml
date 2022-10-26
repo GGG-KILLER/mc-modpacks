@@ -6320,6 +6320,11 @@ hash = "c889a9718156003d2c5e63df9b73954d9fa8134ad71ba3c41dcb2378a642f79d"
 metafile = true
 
 [[files]]
+file = "mods/collective-fabric.pw.toml"
+hash = "4d278bded709a9c97e87fa571c797095be646e9f39e3f7e8703e317d862e1451"
+metafile = true
+
+[[files]]
 file = "mods/compact-machines-fabric.pw.toml"
 hash = "d9568fd2a5fb54ce8b06ce1c2cfbfa3685f4001a8795a75f69f89e12612a9883"
 metafile = true
@@ -7332,6 +7337,11 @@ metafile = true
 [[files]]
 file = "mods/spirit.pw.toml"
 hash = "8760cc3fcb92da07dbe098926e60bda377a5e0513afb92043fca335f4ff44ea9"
+metafile = true
+
+[[files]]
+file = "mods/stack-refill-fabric.pw.toml"
+hash = "b76e090639ff5f47d4acc22845c8a19a64a3f81eb8011c34f54669d6e6075e72"
 metafile = true
 
 [[files]]
