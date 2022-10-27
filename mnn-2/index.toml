@@ -13,6 +13,10 @@ file = "config/AqMods/grizzly.config"
 hash = "dbb2622556bb7f6a421b7f65cd12f4635f73864c134d932f939ae6494d5d7884"
 
 [[files]]
+file = "config/EssentialCommands.properties"
+hash = "f4e40cfe00416d48012201274ddb3586850ee2ac2a43c0660530a3ccd79929e1"
+
+[[files]]
 file = "config/InventoryHUD/curios.json"
 hash = "4b826a017fed64a11651fd23da46753914d51085f53df8ce93aaf7e929c0045e"
 
@@ -6577,6 +6581,11 @@ metafile = true
 [[files]]
 file = "mods/equipment-compare-fabric.pw.toml"
 hash = "9b6419b364a51bd7ebf53e10093cd1356b32644b596095b47689152f27a79bae"
+metafile = true
+
+[[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "bf6bff38c01f643323727d36e821c8b5a5adc7eff3fca6039b19fedf48ba0a0b"
 metafile = true
 
 [[files]]
