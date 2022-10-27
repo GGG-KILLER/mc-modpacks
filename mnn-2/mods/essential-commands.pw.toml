@@ -1,6 +1,6 @@
 name = "Essential Commands"
 filename = "essential_commands-0.24.5-mc1.18.2.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"
