@@ -2549,6 +2549,10 @@ file = "config/floral_flair.json5"
 hash = "20f92eae54ddeb22c76319c788067717d610137603805caade3998bbf1e63759"
 
 [[files]]
+file = "config/flytre_lib.json5"
+hash = "30d2ba928e4cffc67fda36c49fc724c119381912e5bf61d36914a5ecb8eb734d"
+
+[[files]]
 file = "config/flywheel.json"
 hash = "2672a64e4b68c9dbd5ef35e592df846103e6cc15f9f042c2c5280116011a9c1b"
 
