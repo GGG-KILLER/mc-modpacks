@@ -76,21 +76,6 @@ mainMenu {
         text = translatable("menu.multiplayer")
         onClicked = multiplayer()
     }
-    
-    /*
-    button {
-        position {
-            x {it / 2 + 100}
-            y {it / 2}
-        }
-        width = 100
-        height = 20
-
-        text = literal("Reload")
-        onClicked = reloadCts()
-    }
-    */
-    
     button {
         position {
             x {it / 5 + 105}
@@ -112,27 +97,5 @@ mainMenu {
 
         text = translatable("menu.options")
         onClicked = options()
-    }
-    button {
-        position {
-            x {it / 5 + 105}
-            y { it / 2 - 10}
-        }
-        width = 100
-        height = 20
-
-        text = literal("Rent A Server")
-        onClicked = url("https://www.bisecthosting.com/AOF")
-    }
-    button {
-        position {
-            x {it / 5}
-            y { it / 2 - 10}
-        }
-        width = 100
-        height = 20
-
-        text = literal("Discord")
-        onClicked = url("https://discord.gg/6rkdm48")
     }
 }
