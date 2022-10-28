@@ -7184,6 +7184,11 @@ hash = "5ad50122a5242f75545f3178f9834d7fca3bd9990bca27174a3515ce740fb2f3"
 metafile = true
 
 [[files]]
+file = "mods/tamago.pw.toml"
+hash = "7bef5674d5e7d5d581c3e5e86123d1010461be2b4a9641e0f33b408f3017ba6d"
+metafile = true
+
+[[files]]
 file = "mods/techreborn.pw.toml"
 hash = "d9a2776ee476c34e814bba25882023cacdff05d5acbfa8e6d7c3adc7fed6cd3e"
 metafile = true
